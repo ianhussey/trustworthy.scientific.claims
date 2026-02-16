@@ -6,7 +6,6 @@ authors: ["lukas-jung"]
 summary: "An R package for testing the consistency of reported statistics, implementing GRIM and GRIMMER tests."
 tags: ["r-package", "article", "means", "standard deviation"]
 categories: ["means", "standard-deviations"]
-authors: ["ian-hussey"]
 implements_methods: ["grim", "grimmer"]
 tool_url: "https://github.com/ianhussey/scrutiny"
 language: "R"
