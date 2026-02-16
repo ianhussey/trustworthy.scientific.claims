@@ -1,0 +1,10 @@
+{
+  "name": "Ian Hussey",
+  "image": "profile_ianhussey.jpg",
+  "bio": "Researcher in forensic meta-science",
+  "social": [
+    { "email": "mailto:ian.hussey@unibe.ch" },
+    { "github": "https://github.com/ianhussey" },
+    { "orcid": "https://orcid.org/0000-0001-8906-7559" }
+  ]
+}
