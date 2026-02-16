@@ -12,12 +12,12 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["methods", "tools"]
 # robots = ""
 
 disableImageOptimization = false
 
-defaultBackgroundImage = "image.jpg" # used as default for background images 
+defaultBackgroundImage = "image.jpg" # used as default for background images
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
@@ -39,8 +39,8 @@ highlightCurrentMenuArea = true
   homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
-  showMoreLink = true
-  showMoreLinkDest = "/posts"
+  showMoreLink = false
+  showMoreLinkDest = "/tools"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
@@ -55,7 +55,7 @@ highlightCurrentMenuArea = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
@@ -68,8 +68,8 @@ highlightCurrentMenuArea = true
   showTableOfContents = true
   showRelatedContent = true
   relatedContentLimit = 3
-  showTaxonomies = false
-  showAuthorsBadges = false
+  showTaxonomies = true
+  showAuthorsBadges = true
   showWordCount = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
@@ -78,7 +78,7 @@ highlightCurrentMenuArea = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showSummary = true
   showViews = false
   showLikes = false
