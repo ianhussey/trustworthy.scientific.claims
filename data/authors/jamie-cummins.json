@@ -1,0 +1,10 @@
+{
+  "name": "Jamie Cummins",
+  "image": "profile_jamiecummins.jpg",
+  "bio": "Developer of regcheck",
+  "social": [
+    { "email": "mailto:jamie.cummins@unibe.ch" },
+    { "github": "https://github.com/jamiecummins" },
+    { "orcid": "https://orcid.org/0000-0002-9729-4900" }
+  ]
+}

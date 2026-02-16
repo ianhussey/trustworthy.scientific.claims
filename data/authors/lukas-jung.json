@@ -1,0 +1,9 @@
+{
+  "name": "Ian Hussey",
+  "image": "profile_lukasjung.jpg",
+  "bio": "Developer of the scrutiny package",
+  "social": [
+    { "email": "mailto:lukas.jung@unibe.ch" },
+    { "github": "https://github.com/lhdjung" },
+  ]
+}
