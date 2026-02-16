@@ -2,8 +2,9 @@
 title: "scrutiny"
 date: 2025-02-16
 draft: false
+authors: ["lukas-jung"]
 summary: "An R package for testing the consistency of reported statistics, implementing GRIM and GRIMMER tests."
-tags: ["r-package"]
+tags: ["r-package", "article", "means", "standard deviation"]
 categories: ["means", "standard-deviations"]
 authors: ["ian-hussey"]
 implements_methods: ["grim", "grimmer"]

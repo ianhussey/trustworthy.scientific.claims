@@ -5,7 +5,6 @@ draft: false
 summary: "Extends GRIM to test the consistency of reported standard deviations with reported means and sample sizes."
 tags: ["consistency-testing"]
 categories: ["means", "standard-deviations", "sample-sizes"]
-authors: ["jordan-anaya"]
 methods_id: "grimmer"
 year_introduced: 2017
 ---

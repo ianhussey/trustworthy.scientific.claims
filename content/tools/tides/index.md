@@ -2,8 +2,9 @@
 title: "tides"
 date: 2025-02-16
 draft: false
+authors: ["ian-hussey", "lukas-jung", "jamie-cummins"]
 summary: "An R package for testing the consistency among means, standard deviations, sample sizes, and ranges."
-tags: ["r-package"]
+tags: ["r-package", "article", "standard deviations", "descriptive statistics"]
 categories: ["means", "standard-deviations", "sample-sizes"]
 authors: ["ian-hussey"]
 implements_methods: []
