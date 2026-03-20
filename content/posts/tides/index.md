@@ -3,7 +3,7 @@ title: "tides"
 date: 2025-02-16
 draft: false
 summary: ""
-tags: ["article", "standard deviation"]
+tags: []
 ---
 
 ## tides
