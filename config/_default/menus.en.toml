@@ -3,29 +3,34 @@
 # Acceptable parameters are name, pageRef, page, url, title, weight.
 
 [[main]]
+  name = "Posts"
+  pageRef = "posts"
+  weight = 10
+  
+[[main]]
   name = "Guides"
   pageRef = "guides"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Artifacts"
   pageRef = "tags"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Tools"
   pageRef = "tools"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Methods"
   pageRef = "methods"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "People"
   pageRef = "authors"
-  weight = 50
+  weight = 60
 
 [[main]]
   identifier = "github"
