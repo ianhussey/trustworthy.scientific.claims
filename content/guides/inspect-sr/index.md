@@ -10,9 +10,13 @@ authors: ["jack-wilkinson", "ian-hussey"]
 
 ## INSPECT-SR: INveStigating ProblEmatic Clinical Trials in Systematic Reviews
 
-INSPECT-SR is a tool for assessing the trustworthiness of randomised controlled trials (RCTs) in systematic reviews. It guides reviewers through 21 checks across four domains to help judge whether a study's data and findings can be trusted.
+INSPECT-SR ([Wilkinson et al., 2025](https://doi.org/10.1101/2025.09.03.25334905)) is Cochrane's Trustworthiness Assessment tool for randomised controlled trials (RCTs) in systematic reviews. It was designed for health RCTs but has utility in other fields too.
 
-INSPECT-SR does not assess internal or external validity (which are covered by Risk of Bias tools and GRADE), nor does it cover conflicts of interest. It focuses on whether the study and its data are authentic.
+INSPECT-SR does not assess internal or external validity (which are covered by Risk of Bias tools and GRADE), nor does it cover conflicts of interest. 
+
+INSPECT-SR contains 21 checks across four domains to help judge whether a study's data and findings can be trusted sufficiently to include it in a research synthesis (or indeed cite it in other contexts).
+
+This guide includes guidance for the application of some of the component checks and the use of the tools and methods that implement them. In particular, the quantiative forensic meta-science methods included in INSPECT-SR's Domain 4 (see below). This guidance is based on INSPECT-SR's official guidance document (see osf [LINK TO BE ADDED]). 
 
 ### Citation
 
@@ -80,9 +84,20 @@ Consider whether the protocol could realistically be implemented given the study
 
 Look for plagiarised text (using plagiarism software if available), "tortured phrases" (e.g., "counterfeit consciousness" for "artificial intelligence"), or text that doesn't match the study context (e.g., describing a different population or intervention).
 
+- [Tortured Phrases detector](https://dbrech.irit.fr/pls/apex/f?p=9999:24)
+
 ### 3.2. Is there evidence of manipulation or duplication of figures?
 
 Examine figures for signs of manipulation or duplication (e.g., identical plots across panels of different outcomes, manually added error bars, or shifted curves).
+
+Image forensics methods are beyond the scope of this website, but tools include the following:
+
+- ImageTwin [URL]
+- Proofig [URL]
+- Imagetrakr [URL]
+- Forensically [URL]
+- FotoForensics [URL]
+- Ghiro [URL]
 
 ## Domain 4: Inspecting results in the study
 
@@ -98,6 +113,17 @@ Check whether group sizes are consistent with the stated randomisation method. F
 
 Consider clinical/biological and numerical plausibility of baseline characteristics. Look for unusual patterns such as excess even/odd numbers, multiples of 5, or implausibly identical values across groups.
 
+There are also quantiative methods for the assessment of whether groups are systematically too simliar or too different assuming random assignment:
+
+- Barnett’s Baseline [Web app](https://aushsi.shinyapps.io/baseline/) and associated R package 
+- Carlisle’s method [URL for implementations?]
+- Bolland’s reappraised R package [URL needed]
+
+Seperately, there are quantiative methods to assess whether reported a) reported p values and b) effect sizes for between-groups differences for continuous or categorical data can be reproduced from reported summary statistics (i.e., M/SD/N or counts)
+
+- recalc [Web app](https://errors.shinyapps.io/recalc_independent_t_test/)
+- Bolland’s p value recalculator Web app [URL needed]
+
 ### 4.4. Are there any discrepancies between results reported in figures, tables, and text?
 
 Check for contradictions where the same results appear in multiple places (figures, tables, main text, abstract).
@@ -110,9 +136,21 @@ Consider whether attrition rates are plausible given the context, condition, fol
 
 Check for inconsistencies in participant numbers across different parts of the manuscript, including the CONSORT diagram.
 
+The consistency of sample sizes (Ns), means (M), and Standard Deviations between whole samples and subgroups:
+
+- ANCHOR (Assessing Numerical Consistency between wHOle sample and subgRoups) [Web app](https://errors.shinyapps.io/ANCHOR/)
+
 ### 4.7. Are any outcome data, including estimated treatment effects, implausible?
 
 Consider the plausibility of outcome values and treatment effects. Compare to other studies in the meta-analysis if available. Duplication of treatment effects between trials from the same team is particularly concerning.
+
+As noted in 4.3, there are quantiative methods to assess whether reported SMD effect sizes for between-groups differences can be reproduced from reported summary statistics (i.e., M/SD/N).
+
+- recalc [Web app](https://errors.shinyapps.io/recalc_independent_t_test/)
+
+There are also methods to assess the risk that reported SDs are in fact Standard Errors. Note that confusion of SE and SD is extremely common and polutes the results of meta analyses (REF).
+
+- [placeholder - tool in development]
 
 ### 4.8. Are the means and variances of integer data impossible?
 
@@ -123,6 +161,7 @@ For variables that can only take integer values, check whether reported means an
 - [scrutiny](/tools/scrutiny/) — R package implementing GRIM and GRIMMER tests, with a convenient interface for checking multiple values at once
 - [Nick Brown's GRIM calculator](http://nickbrown.fr/GRIM) — online GRIM checker
 - [PrePubMed GRIMMER](http://www.prepubmed.org/grimmer/) — online GRIMMER checker
+- Note to self: should the above link to GRIM generally, and then the GRIM etc pages debate the merits of different implmentations?
 
 ### 4.9. Are there errors in statistical results?
 
