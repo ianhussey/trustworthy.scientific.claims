@@ -30,7 +30,7 @@ All contributions should aim to be accurate, well-sourced, and useful to researc
 
 There is also an active community of sleuths and method/tool developers on our Slack. 
 
--  [forensicmetascience.slack.com])https://forensicmetascience.slack.com/)
+-  [forensicmetascience.slack.com](https://forensicmetascience.slack.com/)
 
 You are welcome to contact me if you would like to request an invitation to the Slack. We don't have any formal procedure for this, but I usually ask that you demonstrate your interest in forensic meta-science to limit the number of inactive lurkers (e.g., a history of PubPeer comments, methods development, R package development, or clear interest in the area). 
 
