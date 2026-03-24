@@ -32,6 +32,16 @@
 # the copyright notice.
 
 [[footer]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[footer]]
+  name = "License"
+  pageRef = "license"
+  weight = 20
+
+[[footer]]
   name = "Privacy Policy"
   pageRef = "privacy"
-  weight = 10
+  weight = 30
