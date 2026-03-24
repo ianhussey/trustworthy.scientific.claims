@@ -16,5 +16,3 @@ This website respects your privacy. We do not collect, store, or process any per
 - We do not offer forms, subscriptions, or any login functionality.
 
 As a result, this site does not require a cookie banner or consent popup under the EU General Data Protection Regulation (GDPR), the ePrivacy Directive, or equivalent data protection laws.
-
-If you have any questions or concerns about this policy, you may contact us via the details provided on the [about](/about/) page.
