@@ -52,6 +52,8 @@ Check the journal website and the [Retraction Watch database](http://retractiond
 
 Check the journal website, Retraction Watch database, and also post-publication comments (letters to editor, [PubPeer](https://www.pubpeer.com/)). The [PubPeer browser plugin](https://www.pubpeer.com/static/extensions) automatically flags studies with comments. Consider the content carefully — not all critiques relate to trustworthiness.
 
+There is also the ['Concerning'](https://dbrech.irit.fr/pls/apex/f?p=9999:34::::::) and ['Annulled'](https://dbrech.irit.fr/pls/apex/f?p=9999:33::::::) detectors.
+
 ### 1.3. Do other studies by the research team highlight causes for concern?
 
 Search the first, corresponding, and last author on the [Retraction Watch database](http://retractiondatabase.org/). A track record of integrity problems may introduce doubts about the index study.
