@@ -7,7 +7,7 @@ cascade:
   showReadingTime: true
   showTaxonomies: true
   showAuthorsBadges: true
-  showRelatedContent: true
+  showRelatedContent: false
 ---
 
 Step-by-step guides for applying methods and using tools.

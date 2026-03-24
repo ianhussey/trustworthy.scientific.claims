@@ -7,7 +7,7 @@ cascade:
   showReadingTime: true
   showTaxonomies: true
   showAuthorsBadges: true
-  showRelatedContent: true
+  showRelatedContent: false
 ---
 
 Software packages and applications that implement forensic meta-science methods.

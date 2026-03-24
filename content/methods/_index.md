@@ -7,7 +7,7 @@ cascade:
   showReadingTime: true
   showTaxonomies: true
   showAuthorsBadges: true
-  showRelatedContent: true
+  showRelatedContent: false
 ---
 
 Methods for checking the consistency, plausibility, and integrity of reported statistical results.
