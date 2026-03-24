@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
-mainSections = ["methods", "tools"]
+mainSections = ["methods", "tools", "guides", "posts"]
 # robots = ""
 
 disableImageOptimization = false
