@@ -11,7 +11,7 @@ title = "Forensic Meta-Science"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  copyright = "Ian Hussey"
+  copyright = "&copy; { year } Ian Hussey"
 
  [author]
    name = "Ian Hussey"
