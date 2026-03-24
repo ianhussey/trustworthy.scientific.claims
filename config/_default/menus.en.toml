@@ -26,3 +26,12 @@
   name = "Artifacts"
   pageRef = "tags"
   weight = 50
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice.
+
+[[footer]]
+  name = "Privacy Policy"
+  pageRef = "privacy"
+  weight = 10
