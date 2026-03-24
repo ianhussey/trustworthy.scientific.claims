@@ -33,7 +33,3 @@ There is also an active community of sleuths and method/tool developers on our S
 -  [forensicmetascience.slack.com](https://forensicmetascience.slack.com/)
 
 You are welcome to contact me if you would like to request an invitation to the Slack. We don't have any formal procedure for this, but I usually ask that you demonstrate your interest in forensic meta-science to limit the number of inactive lurkers (e.g., a history of PubPeer comments, methods development, R package development, or clear interest in the area). 
-
-## License
-
-The content on this site is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the material for any purpose, provided you give appropriate attribution.
