@@ -24,9 +24,15 @@ If you'd like to contribute, you can:
 
 - **Open an issue** to suggest a new method, tool, or guide, or to report an error.
 - **Submit a pull request** to add or improve content directly.
-- **Get in touch** via email at ian.hussey@unibe.ch.
+- **Get in touch** via email at ian.hussey [at] unibe.ch.
 
 All contributions should aim to be accurate, well-sourced, and useful to researchers, reviewers, and integrity investigators.
+
+There is also an active community of sleuths and method/tool developers on our Slack. 
+
+-  [forensicmetascience.slack.com])https://forensicmetascience.slack.com/)
+
+You are welcome to contact me if you would like to request an invitation to the Slack. We don't have any formal procedure for this, but I usually ask that you demonstrate your interest in forensic meta-science to limit the number of inactive lurkers (e.g., a history of PubPeer comments, methods development, R package development, or clear interest in the area). 
 
 ## License
 
