@@ -3,28 +3,28 @@
 # Acceptable parameters are name, pageRef, page, url, title, weight.
 
 [[main]]
-  name = "Methods"
-  pageRef = "methods"
-  weight = 10
-
-[[main]]
-  name = "Tools"
-  pageRef = "tools"
-  weight = 20
-
-[[main]]
   name = "Guides"
   pageRef = "guides"
-  weight = 30
-
-[[main]]
-  name = "People"
-  pageRef = "authors"
-  weight = 40
+  weight = 10
 
 [[main]]
   name = "Artifacts"
   pageRef = "tags"
+  weight = 20
+
+[[main]]
+  name = "Tools"
+  pageRef = "tools"
+  weight = 30
+
+[[main]]
+  name = "Methods"
+  pageRef = "methods"
+  weight = 40
+
+[[main]]
+  name = "People"
+  pageRef = "authors"
   weight = 50
 
 # -- Footer Menu --
