@@ -3,6 +3,11 @@
 # Acceptable parameters are name, pageRef, page, url, title, weight.
 
 [[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 5
+
+[[main]]
   name = "Posts"
   pageRef = "posts"
   weight = 10
@@ -41,11 +46,6 @@
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice.
-
-[[footer]]
-  name = "About"
-  pageRef = "about"
-  weight = 10
 
 [[footer]]
   name = "License"
