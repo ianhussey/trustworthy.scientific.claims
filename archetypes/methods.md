@@ -5,7 +5,6 @@ draft: true
 summary: ""
 tags: []
 categories: []
-authors: []
 methods_id: "{{ .File.ContentBaseName }}"
 year_introduced:
 ---

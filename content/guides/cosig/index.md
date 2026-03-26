@@ -5,7 +5,6 @@ draft: false
 summary: "A collection of open science integrity guides for post-publication peer review and forensic meta-science."
 tags: ["post-publication-peer-review", "forensic-meta-science", "trustworthiness", "COSIG"]
 categories: ["images", "data", "text", "statistics"]
-authors: ["ian-hussey"]
 ---
 
 ## COSIG: Collection of Open Science Integrity Guides

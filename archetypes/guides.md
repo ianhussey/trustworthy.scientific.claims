@@ -5,7 +5,6 @@ draft: true
 summary: ""
 tags: []
 categories: []
-authors: []
 related_methods: []
 related_tools: []
 ---

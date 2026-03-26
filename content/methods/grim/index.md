@@ -5,7 +5,6 @@ draft: false
 summary: "Granularity-Related Inconsistency of Means — tests whether reported means are mathematically possible given the sample size."
 tags: ["consistency-testing"]
 categories: ["means", "sample-sizes"]
-authors: ["nick-brown", "james-heathers"]
 methods_id: "grim"
 year_introduced: 2016
 ---

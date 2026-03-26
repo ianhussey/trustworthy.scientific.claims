@@ -5,7 +5,6 @@ draft: false
 summary: "A guide to using the INSPECT-SR tool for assessing the trustworthiness of randomised controlled trials included in systematic reviews."
 tags: ["systematic-reviews", "trustworthiness", "RCTs", "INSPECT-SR"]
 categories: ["means", "standard-deviations", "sample-sizes", "p-values", "effect-sizes"]
-authors: ["jack-wilkinson", "ian-hussey"]
 ---
 
 ## INSPECT-SR: INveStigating ProblEmatic Clinical Trials in Systematic Reviews

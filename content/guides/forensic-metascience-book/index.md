@@ -5,7 +5,6 @@ draft: false
 summary: "A free online book by James Heathers introducing forensic meta-science techniques, with worked examples and R code."
 tags: ["forensic-meta-science", "GRIM", "GRIMMER", "SPRITE", "book"]
 categories: ["means", "standard-deviations", "sample-sizes", "images"]
-authors: ["ian-hussey"]
 ---
 
 ## An Introduction to Forensic Metascience

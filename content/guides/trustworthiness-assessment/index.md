@@ -1,22 +1,21 @@
 ---
-title: "Trustworthiness Assessment: Using Forensic Meta-Science"
+title: "Forensic Meta-Science"
 date: 2026-03-24
-draft: false
+draft: true
 summary: "A free online textbook by Ian Hussey & Malte Elson covering forensic meta-science methods for assessing the trustworthiness of scientific research, with R code and exercises."
 tags: ["forensic-meta-science", "GRIM", "GRIMMER", "SPRITE", "INSPECT-SR", "effect-sizes", "recalculation", "book"]
 categories: ["means", "standard-deviations", "sample-sizes", "effect-sizes", "preregistrations"]
-authors: ["ian-hussey"]
 ---
 
 ## Trustworthiness Assessment: Using Forensic Meta-Science
 
-[Trustworthiness Assessment: Using Forensic Meta-Science](https://ianhussey.quarto.pub/trustworthiness-assessment/) is a free online textbook by Ian Hussey and Malte Elson (2026) developed for a Master's-level seminar at the University of Bern. It provides a systematic, hands-on approach to evaluating the trustworthiness of scientific research using forensic meta-science methods.
+[Forensic Meta-Science](https://ianhussey.quarto.pub/forensic-meta-science/) is a free online textbook by Ian Hussey and Malte Elson (2026) developed for a Master's-level seminar at the University of Bern. It provides a systematic, hands-on approach to evaluating the trustworthiness of scientific research using forensic meta-science methods.
 
 The book is written in Quarto with all analyses implemented in R using {tidyverse}, and all materials are available on GitHub for download and local use.
 
 ### Citation
 
-Hussey, I., & Elson, M. (2026). Trustworthiness Assessment: Using Forensic Meta-Science. <https://ianhussey.quarto.pub/trustworthiness-assessment/>
+Hussey, I., & Elson, M. (2026). Forensic Meta-Science. <https://ianhussey.quarto.pub/forensic-meta-science/>
 
 ## Structure
 
@@ -68,5 +67,5 @@ The textbook is designed for Master's students, researchers, and anyone who want
 
 ## Resources
 
-- [Read the book](https://ianhussey.quarto.pub/trustworthiness-assessment/) — full text, freely available online
-- [GitHub repository](https://github.com/ianhussey/trustworthiness-assessment) — source materials for download and contribution
+- [Read the book](https://ianhussey.quarto.pub/forensic-meta-science/) — full text, freely available online
+- [GitHub repository](https://github.com/ianhussey/forensic-meta-science) — source materials for download and contribution

@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Forensic Meta-Science"
+title = "trustworthy.scientific.claims"
 
 [params]
   displayName = "EN"
@@ -16,7 +16,7 @@ title = "Forensic Meta-Science"
  [author]
    name = "Ian Hussey"
    image = "profile_ianhussey.jpg"
-   headline = "Forensic Meta-Science Resources"
+   headline = "trustworthy.scientific.claims"
    bio = "Open source tools and methods for checking the consistency and integrity of reported statistical results."
    links = [
      { email = "mailto:ian.hussey@unibe.ch" },
