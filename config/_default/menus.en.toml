@@ -41,7 +41,7 @@
   identifier = "github"
   pre = "github"
   url = "https://github.com/ianhussey/trustworthy.scientific.claims"
-  weight = 60
+  weight = 70
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
