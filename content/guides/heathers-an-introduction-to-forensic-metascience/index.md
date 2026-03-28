@@ -15,7 +15,7 @@ The book is written in a literate programming style, with all analyses implement
 
 ### Citation
 
-Heathers, J. (2025). An Introduction to Forensic Metascience. doi: [10.5281/zenodo.14871843](https://doi.org/10.5281/zenodo.14871843)
+Heathers, J. (2025). An Introduction to Forensic Metascience. doi: [10.5281/zenodo.14871843](https://doi.org/10.5281/zenodo.14871843). https://jamesheathers.curve.space/
 
 ## Topics covered
 
