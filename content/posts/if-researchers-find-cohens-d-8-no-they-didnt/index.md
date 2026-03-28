@@ -1,5 +1,5 @@
 ---
-title: "If researchers find Cohen's *d* = 8, no they didn't"
+title: "If researchers find Cohen's d = 8, no they didn't"
 authors: ["ian-hussey"]
 layout: single
 date: "2025-07-26"
@@ -16,7 +16,7 @@ They are in the top left corner which makes them Cool and Good. For these reason
 
 <br>
 
-In this post, I focus on Cohen's $d$ standardized mean difference effect sizes.
+In this post, I focus on Cohen's *d* standardized mean difference effect sizes.
 
 So, how large an effect size should make us balk? 
 
@@ -26,7 +26,7 @@ On the other hand, literally no-one is proposing that effect sizes beyond a spec
 
 One useful starting point is to have an intuition for norms in the literature. [Bogdan (2025)](https://doi.org/10.1177/25152459251323480) scraped data from 173,926 psychology articles published between 2004 and 2024 and extracted p values and effect size metrics. His article is worth a read. Further analysis of that data set can tell us lots about the distribution of Cohen's *d* effect sizes in the psychology literature as a whole. 
 
-I extracted 23,089 Cohen's *d* effect sizes that were explicitly reported in text (e.g., "Cohen's *d* = 0.21"). Cohen's *d* can also be estimated from *t*-tests' degrees of freedom and *t* values, akin to how statcheck also recomputes *p*-values from these ([Nuijten et al., 2016](https://doi.org/10.3758/s13428-015-0664-2)). For the sake of simplicity, I assumed all *t*-tests are independent rather than dependent, as the Cohen's *d* calculation differs slightly between them, although it doesn't change the distribution very much. 454,687 Cohen's $d_s$ estimates could be calculated from reported *t*-tests. The right tail of both distributions are very long, so I only plot the 0-99th percentiles. 
+I extracted 23,089 Cohen's *d* effect sizes that were explicitly reported in text (e.g., "Cohen's *d* = 0.21"). Cohen's *d* can also be estimated from *t*-tests' degrees of freedom and *t* values, akin to how statcheck also recomputes *p*-values from these ([Nuijten et al., 2016](https://doi.org/10.3758/s13428-015-0664-2)). For the sake of simplicity, I assumed all *t*-tests are independent rather than dependent, as the Cohen's *d* calculation differs slightly between them, although it doesn't change the distribution very much. 454,687 Cohen's *d*_s estimates could be calculated from reported *t*-tests. The right tail of both distributions are very long, so I only plot the 0-99th percentiles. 
 
 <br>
 
@@ -38,7 +38,7 @@ Or in percentiles:
 
 <br>
 
-| Percentile | \|$d$\| | \|$d_s$\| estimated from *t* test |
+| Percentile | \|*d*\| | \|*d*_s\| estimated from *t* test |
 | ---------: | ------: | --------------------------------: |
 |          1 |    0.02 |                              0.02 |
 |          5 |    0.07 |                              0.09 |
