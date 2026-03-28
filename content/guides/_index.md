@@ -2,11 +2,11 @@
 title: "Guides"
 description: "How-to guides, tutorials, and walkthroughs for using forensic meta-science methods and tools."
 cascade:
-  showAuthor: true
+  showAuthor: false
   showDate: true
   showReadingTime: true
   showTaxonomies: true
-  showAuthorsBadges: true
+  showAuthorsBadges: false
   showRelatedContent: false
 ---
 

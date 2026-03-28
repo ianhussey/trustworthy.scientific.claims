@@ -1,7 +1,7 @@
 ---
 title: "Post-publication peer-review should focus on highly influential articles"
 layout: single
-Author: "Ian Hussey and Jamie Cummins"
+authors: ["ian-hussey", "jamie-cummins"]
 date: "2025-08-11"
 sitemap: true
 ---

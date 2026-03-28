@@ -2,11 +2,11 @@
 title: "Tools"
 description: "Software implementations of forensic meta-science methods — R packages, Python libraries, web apps, and other tools."
 cascade:
-  showAuthor: true
+  showAuthor: false
   showDate: true
   showReadingTime: true
   showTaxonomies: true
-  showAuthorsBadges: true
+  showAuthorsBadges: false
   showRelatedContent: false
 ---
 

@@ -2,7 +2,7 @@
 layout: single
 title: "STALT-check: How small a *p*-value is suspicious?"
 url: "/posts/2025/07/stalt-check"
-Author: "Ian Hussey"
+authors: ["ian-hussey"]
 sitemap: true
 date: 2025-07-22
 ---

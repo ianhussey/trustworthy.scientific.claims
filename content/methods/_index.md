@@ -2,11 +2,11 @@
 title: "Methods"
 description: "Scientific methods for forensic meta-science — statistical tests and techniques for identifying errors, inconsistencies, and fabrication in research data."
 cascade:
-  showAuthor: true
+  showAuthor: false
   showDate: true
   showReadingTime: true
   showTaxonomies: true
-  showAuthorsBadges: true
+  showAuthorsBadges: false
   showRelatedContent: false
 ---
 
