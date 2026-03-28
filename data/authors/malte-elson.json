@@ -1,9 +1,10 @@
 {
   "name": "Malte Elson",
-  "image": "profile_malteelson.jpg",
-  "bio": "Professor of psychology of digitalisation, meta-science researcher",
+  "image": "profile_malteelson.png",
+  "bio": "Professor of Psychology of Digitalisation, University of Bern",
   "social": [
     { "email": "mailto:malte.elson@unibe.ch" },
-    { "orcid": "https://orcid.org/0000-0001-7806-9583" }
+    { "orcid": "https://orcid.org/0000-0001-7806-9583" },
+    { "github": "https://github.com/maltoesermalte" }
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "name": "Beth Clarke",
+  "image": "profile_bethclarke.jpg",
+  "bio": "Postdoc, University of Bern",
+  "social": [
+    { "email": "mailto:beth.clarke@unibe.ch" },
+    { "github": "https://github.com/beth099" },
+    { "orcid": "https://orcid.org/0000-0002-7355-6718" }
+  ]
+}

@@ -1,9 +1,10 @@
 {
-  "name": "Ian Hussey",
+  "name": "Lukas Jung",
   "image": "profile_lukasjung.jpg",
-  "bio": "Developer of the scrutiny package",
+  "bio": "PhD student, Psychology of Digitalisation group, University of Bern",
   "social": [
     { "email": "mailto:lukas.jung@unibe.ch" },
+    { "orcid": "https://orcid.org/0009-0007-9174-1494" },
     { "github": "https://github.com/lhdjung" }
   ]
 }
