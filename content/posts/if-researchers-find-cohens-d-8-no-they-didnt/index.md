@@ -1,5 +1,6 @@
 ---
 title: "If researchers find Cohen's *d* = 8, no they didn't"
+Author: "Ian Hussey"
 layout: single
 date: "2025-07-26"
 sitemap: true
