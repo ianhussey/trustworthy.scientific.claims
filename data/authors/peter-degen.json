@@ -1,0 +1,9 @@
+{
+  "name": "Peter Degen",
+  "image": "profile_peterdegen.jpg",
+  "bio": "Postdoc, Center for Reproducible Science and Research Synthesis, University of Zurich",
+  "social": [
+    { "email": "mailto:peter.degen@uzh.ch" },
+    { "orcid": "https://orcid.org/0009-0004-0706-9200" }
+  ]
+}
