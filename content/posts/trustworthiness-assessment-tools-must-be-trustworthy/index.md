@@ -61,7 +61,7 @@ On reflection, we no longer think that the over-abundance of early stage tool de
 ## **Conflict of Interest statement**
 
 Ian Hussey is developer of multiple forensic meta-science methods and tools (e.g., [strait](https://github.com/ianhussey/strait), [recalc](https://github.com/ianhussey/recalc), [INSPECT-SR consistency checker for means and variances](https://errors.shinyapps.io/inspect-sr-means-variances/)).  
-Lukas Jung is developer of multiple forensic meta-science methods and tools (e.g., [scrutiny](https://github.com/lhdjung/scrutiny), [unsum](https://github.com/lhdjung/unsum), [INSPECT-SR consistency checker for means and variances](https://errors.shinyapps.io/inspect-sr-means-variances/)).  
+Lukas Jung is developer of multiple forensic meta-science methods and tools (e.g., [scrutiny](https://lhdjung.github.io/scrutiny/index.html), [unsum](https://lhdjung.github.io/unsum/), [INSPECT-SR consistency checker for means and variances](https://errors.shinyapps.io/inspect-sr-means-variances/)).  
 Jamie Cummins is developer of several tools, including RegCheck ([regcheck.app](https://regcheck.app)), PreCheck, and CodeBot. RegCheck is both a tool in its own right soon to be recommended as part of [INSPECT-SR](https://inspect-sr.com), and is also used in the INSPECT-AI tool (Vorland & Avenell) for semi-automated research integrity checks.   
 All tools are currently undergoing extensive validation.  
 
