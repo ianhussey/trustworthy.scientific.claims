@@ -10,7 +10,7 @@ sitemap: true
 
 <br>
 
-*tl;dr: Using vibe-coded, unvalidated forensic meta-science tools to evaluate the trustworthiness of published research means holding authors to standards that we ourselves do not meet. The solution is less vibe-coding and more validation.*
+*tl;dr: Using vibe-coded, unvalidated forensic meta-science tools to evaluate the trustworthiness of published research risks holding authors vs. tools to unequal standards. The solution is less vibe-coding and more validation.*
 
 <br>
 
